@@ -9,6 +9,16 @@
     },
     
     {
+      "name": "flib",
+      "enabled": true
+    },
+    
+    {
+      "name": "liborio",
+      "enabled": true
+    },
+    
+    {
       "name": "my_custom_turret_mod",
       "enabled": true
     },
