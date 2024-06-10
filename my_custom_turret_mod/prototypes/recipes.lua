@@ -1,14 +1,11 @@
 data:extend({
     {
         type = "recipe",
-        name = "custom-turret",
-        enabled = false,
-        energy_required = 8,
+        name = "custom-turret-tool",
+        enabled = true,
         ingredients = {
-            {"iron-gear-wheel", 10},
-            {"copper-plate", 10},
-            {"iron-plate", 20}
+            {"iron-plate", 1}
         },
-        result = "custom-turret"
+        result = "custom-turret-tool"
     }
 })
