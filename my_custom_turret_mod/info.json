@@ -1,0 +1,10 @@
+{
+  "name": "my_custom_turret_mod",
+  "version": "0.1.0",
+  "title": "My Custom Turret Mod",
+  "author": "YourName",
+  "description": "A custom turret mod for Factorio.",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1.0"],
+  "main": "control.lua"
+}
