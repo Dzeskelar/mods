@@ -1,3 +1,9 @@
+if script == nil then
+    script = {}
+end
+
+require("prototypes.custom_turret_tool")
+
 -- Подключение файлов прототипов
 require("prototypes.entity.turrets")
 require("prototypes.items")

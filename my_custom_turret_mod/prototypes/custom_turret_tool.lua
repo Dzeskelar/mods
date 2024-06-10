@@ -1,4 +1,9 @@
-local Event = require('__stdlib__/stdlib/event/event')
+if script == nil then
+    script = {}
+end
+
+local event = require('__stdlib__/stdlib/event/event')
+
 
 data:extend({
     {
